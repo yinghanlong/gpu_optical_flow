@@ -1,5 +1,8 @@
 GPU based optical flow extraction in OpenCV
 ====================
+### Modified to support opencv 3.4
+Original code from:
+https://github.com/feichtenhofer/gpu_flow
 ### Features:
 * OpenCV wrapper for Real-Time optical flow extraction on GPU
 * Automatic directory handling using Qt
